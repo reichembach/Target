@@ -26,5 +26,4 @@ for item in json_data:
         dias = dias + 1
 print('Menor faturamento foi dia', diamin, 'com um valor de', min)
 print('Maior faturamento foi dia', diamax, 'com um valor de', max)
-print('Sendo a média mensal de', round(med),
-      ', o número de dias no mês em que o valor de faturamento foi superior a essa média foi:', dias, 'dias')
+print('Sendo a média mensal de', round(med), ', o número de dias no mês em que o valor de faturamento foi superior a essa média foi:', dias, 'dias')
